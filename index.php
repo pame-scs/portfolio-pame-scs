@@ -80,10 +80,7 @@
                         <img src="assets/IntelliJ.png" alt="IntelliJ logo">
                         <p>IntelliJ</p>
                     </div>
-                    <div class="skill-item">
-                        <img src="assets/pavlovia.png" alt="Pavlovia logo">
-                        <p>Pavlovia</p>
-                    </div>
+                    
                 </div>
                 <h2><?php echo $TRAD["skills-h2-design"] ?></h2>
                 <div class="skills">
@@ -150,6 +147,10 @@
                     <div>
                         <img src="assets/latex-logo.png" alt="LaTeX logo" style="width:50px">
                         <p>LaTeX</p>
+                    </div>
+                    <div class="skill-item">
+                        <img src="assets/pavlovia.png" alt="Pavlovia logo">
+                        <p>Pavlovia</p>
                     </div>
                 </div>
             </div>

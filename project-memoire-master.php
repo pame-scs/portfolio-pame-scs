@@ -34,7 +34,7 @@
                     <p>CSS</p>
                 </div>
                 <div class="skill-item">
-                    <img src="assets/javascript.png" alt="JavaScript logo">
+                    <img src="assets/js.png" alt="JavaScript logo">
                     <p>JavaScript</p>
                 </div>
                 <div class="skill-item">
@@ -55,14 +55,7 @@
                  </div>
             </div>
         </section>
-        <section>
-            <h2><?php echo $TRAD["galery"] ?></h2>
-            <div class="galery">
-                <img src="assets/project-6/memoir-1.png" alt="portfolio1">
-                <img src="assets/project-6/memoir-2.png" alt="portfolio2">
-                <img src="assets/project-6/memoir-3.png" alt="portfolio2">
-            </div>
-        </section>
+        
     </main>
     <?php include "php/footer.php" ?>
     <script src="script.js"></script>
