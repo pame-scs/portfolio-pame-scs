@@ -36,7 +36,10 @@
             <div class="skills-container">
                 <h2><?php echo $TRAD["skills-h2-dev"] ?></h2>
                 <div class="skills">
-
+                    <div class="skill-item">
+                        <img src="assets/R.png" alt="R logo">
+                        <p>R</p>
+                    </div>
                     <div class="skill-item">
                         <img src="assets/html5.png" alt="HTML5 logo">
                         <p>HTML5</p>
@@ -76,6 +79,10 @@
                     <div class="skill-item">
                         <img src="assets/IntelliJ.png" alt="IntelliJ logo">
                         <p>IntelliJ</p>
+                    </div>
+                    <div class="skill-item">
+                        <img src="assets/pavlovia.png" alt="Pavlovia logo">
+                        <p>Pavlovia</p>
                     </div>
                 </div>
                 <h2><?php echo $TRAD["skills-h2-design"] ?></h2>

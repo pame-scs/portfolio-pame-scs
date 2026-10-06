@@ -17,6 +17,53 @@
 
 <body>
     <?php include "php/nav.php" ?>
+    <main class="project-page">
+        <h1><?php echo $TRAD["memoire-master-title"] ?></h1>
+        <section>
+            <p><?php echo $TRAD["memoire-master-desc"] ?></p>
+        </section>
+        <section>
+            <h2><?php echo $TRAD["used-tech"] ?></h2>
+            <div class="skills">
+                <div class="skill-item">
+                    <img src="assets/html.png" alt="HTML logo">
+                    <p>HTML</p>
+                </div>
+                <div class="skill-item">
+                    <img src="assets/css.png" alt="CSS logo">
+                    <p>CSS</p>
+                </div>
+                <div class="skill-item">
+                    <img src="assets/javascript.png" alt="JavaScript logo">
+                    <p>JavaScript</p>
+                </div>
+                <div class="skill-item">
+                    <img src="assets/R.png" alt="R logo">
+                    <p>R</p>
+                </div>
+                <div class="skill-item">
+                        <img src="assets/pavlovia.png" alt="Pavlovia logo">
+                        <p>Pavlovia</p>
+                </div>
+                <div class="skill-item">
+                    <img src="assets/overleaf.jpg" alt="Overleaf logo">
+                    <p>Overleaf</p>
+                </div>
+                <div class="skill-item">
+                    <img src="assets/canva.png" alt="Canva logo">
+                    <p>Canva</p>
+                 </div>
+            </div>
+        </section>
+        <section>
+            <h2><?php echo $TRAD["galery"] ?></h2>
+            <div class="galery">
+                <img src="assets/project-6/memoir-1.png" alt="portfolio1">
+                <img src="assets/project-6/memoir-2.png" alt="portfolio2">
+                <img src="assets/project-6/memoir-3.png" alt="portfolio2">
+            </div>
+        </section>
+    </main>
     <?php include "php/footer.php" ?>
     <script src="script.js"></script>
 </body>
