@@ -22,7 +22,7 @@
         <p><?php echo $TRAD["memoire-master-desc"] ?></p>
         <section>
             <h2><?php echo $TRAD["memoire-master-research-question"] ?></h2>
-            <p><?php echo $TRAD["memoire-master-abstract"] ?></p>
+            <p class="abstract"><?php echo $TRAD["memoire-master-abstract"] ?></p>
         </section>
         <section>
             <h2><?php echo $TRAD["used-tech"] ?></h2>
@@ -57,7 +57,14 @@
                  </div>
             </div>
         </section>
-        
+        <section>
+            <h2><?php echo $TRAD["galery"] ?></h2>
+            <div class="galery">
+                <img src="assets/project-8/memoir-1.png" alt="memoir-1">
+                <img src="assets/project-8/memoir-2.png" alt="memoir-2">
+                <img src="assets/project-8/memoir-3.png" alt="memoir-3">
+            </div>
+        </section>
     </main>
     <?php include "php/footer.php" ?>
     <script src="script.js"></script>

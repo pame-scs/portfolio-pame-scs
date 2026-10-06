@@ -7,7 +7,7 @@ body{
 }
 @media (max-width: 1300px) {
     body{
-        padding: 0.5em 2em;
+        padding: 0.5em 1em;
     }
 }
 
@@ -208,7 +208,7 @@ nav .menu-icon {
     }
 
     #landing h1 {
-        font-size: 30px;
+        font-size: 25px;
     }
 
     #landing h2 {
@@ -216,7 +216,7 @@ nav .menu-icon {
     }
 
     #landing p {
-        font-size: 14x;
+        font-size: 14px;
     }
 
     .landing-buttons {
@@ -289,11 +289,11 @@ nav .menu-icon {
     }
 
     #skills h1 {
-        font-size: 30px;
+        font-size: 25px;
     }
 
     #skills h2{
-        font-size: 20px;
+        font-size: 18px;
     }
 
     .skills {
@@ -309,7 +309,7 @@ nav .menu-icon {
     }
 
     .skill-item p {
-        font-size: 14px;
+        font-size: 15px;
     }
 }
 
@@ -364,14 +364,21 @@ nav .menu-icon {
     }
 
     #timeline h1 {
-        font-size: 30px;
+        font-size: 20px;
     }
 
     #timeline h2 {
         text-align: left;
-        font-size: 20px;
+        font-size: 15px;
     }
 
+    #timeline h3 {
+        font-size: 15px;
+    }
+
+    #timeline p {
+        font-size: 12px;
+    }
 
 }
 
@@ -462,6 +469,14 @@ nav .menu-icon {
     background-image: url(assets/project-6/memoir-3.png);
 }
 
+.project-notioncolab{
+    background-image: url(assets/project-7/notion-colab-1.png);
+}
+
+.project-memoire-master{
+    background-image: url(assets/project-8/memoire-1.png);
+}
+
 .p-img {
     background-size: cover;
     background-position: center;
@@ -487,8 +502,8 @@ nav .menu-icon {
         padding: 1em 2em;
     }
 
-    #Projects h1 {
-        font-size: 30px;
+    #Projects h3 {
+        font-size: 15px;
     }
 
     .project-container {
@@ -533,13 +548,25 @@ nav .menu-icon {
     border-radius: 1em;
 }
 
+.abstract {
+    font-style: italic;
+    text-justify: inter-word;
+    text-align: justify;
+}
+
 @media (max-width: 1300px) {
     .project-page {
-        padding: 1em 2em;
+        padding: 1em;
     }
 
     .project-page h1 {
-        font-size: 30px;
+        font-size: 25px;
+    }
+    .project-page p {
+        font-size: 14px;
+    }
+    .project-page h2 {
+        font-size: 20px;
     }
 
     .galery {
@@ -548,5 +575,10 @@ nav .menu-icon {
     }
     .project-page section {
         padding: 1em 0;
+    }
+    .abstract {
+        font-style: italic;
+        text-justify: inter-word;
+        text-align: justify;
     }
 }

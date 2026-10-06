@@ -212,6 +212,12 @@
         <div id="Projects">
             <h1><?php echo $TRAD["project-h1"] ?></h1>
             <div class="project-container">
+                <a href="\project-memoire-master.php" class="project">
+                    <article class="project-memoire-master p-img">
+
+                    </article>
+                    <h3><?php echo $TRAD["memoire-master-title"] ?></h3>
+                </a>
                 <a href="\project-portfolio.php" class="project">
                     <article class="project-portfolio p-img">
 
