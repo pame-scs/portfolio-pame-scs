@@ -21,7 +21,8 @@
         <h1><?php echo $TRAD["memoire-master-title"] ?></h1>
         <p><?php echo $TRAD["memoire-master-desc"] ?></p>
         <section>
-            <p><?php echo $TRAD["memoire-master-desc"] ?></p>
+            <h2><?php echo $TRAD["memoire-master-research-question"] ?></h2>
+            <p><?php echo $TRAD["memoire-master-abstract"] ?></p>
         </section>
         <section>
             <h2><?php echo $TRAD["used-tech"] ?></h2>
