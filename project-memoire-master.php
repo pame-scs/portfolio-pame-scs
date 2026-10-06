@@ -19,6 +19,7 @@
     <?php include "php/nav.php" ?>
     <main class="project-page">
         <h1><?php echo $TRAD["memoire-master-title"] ?></h1>
+        <p><?php echo $TRAD["memoire-master-desc"] ?></p>
         <section>
             <p><?php echo $TRAD["memoire-master-desc"] ?></p>
         </section>

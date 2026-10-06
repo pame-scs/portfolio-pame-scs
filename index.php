@@ -26,7 +26,6 @@
                 <p><?php echo $TRAD["about2"] ?></p>
                 <div class="landing-buttons">
                     <a href="project-memoire-master.php" class="landing-button1"><?php echo $TRAD["project-button"] ?></a>
-                    <a href="https://www.linkedin.com/in/pamela-castaneda-s/" class="landing-button2">LinkedIn</a>
                 </div>
             </section>
             <div class="landing-img"></div>
