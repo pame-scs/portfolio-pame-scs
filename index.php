@@ -25,7 +25,7 @@
                 <p><?php echo $TRAD["about"] ?></p>
                 <p><?php echo $TRAD["about2"] ?></p>
                 <div class="landing-buttons">
-                    <a href="index.php#Projects" class="landing-button1"><?php echo $TRAD["project-button"] ?></a>
+                    <a href="project-memoire-master.php" class="landing-button1"><?php echo $TRAD["project-button"] ?></a>
                     <a href="https://www.linkedin.com/in/pamela-castaneda-s/" class="landing-button2">LinkedIn</a>
                 </div>
             </section>
@@ -195,6 +195,10 @@
                 <h3><?php echo $TRAD["master-h3"] ?></h3>
                 <address>
                     <p><?php echo $TRAD["master-location"] ?></p>
+                </address>
+                <h3><?php echo $TRAD["master-thesis-internship"] ?></h3>
+                <address>
+                    <p><?php echo $TRAD["master-location-lab"] ?></p>
                 </address>
             </div>
         </div>

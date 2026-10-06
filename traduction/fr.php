@@ -9,7 +9,7 @@ $translations = [
     "job" => "Master en Sciences Cognitives | Researcher UX | Facteurs Humains",
     "about" => "Bonjour! Je suis Pamela et je suis étudiante en dernière année de Master en Sciences Cognitives, spécialisée en Interaction Humain-Machine (IHM), UX Research, Facteurs Humains et Sciences du Comportement. Mon travail consiste à comprendre la manière dont les individus interagissent avec les technologies et à appliquer les principes des sciences cognitives à la conception de systèmes intuitifs, fiables et fondés sur des preuves scientifiques.",
     "about2" => "Mes recherches actuelles portent sur le biais d'automatisation (automation bias), la prise de décision et la conception des systèmes, en étudiant l'influence du design des interfaces et de l'automatisation sur le jugement humain. À travers des méthodes issues de la psychologie expérimentale, j'étudie les mécanismes cognitifs impliqués dans l'interaction entre l'humain et l'intelligence artificielle afin de concevoir des systèmes d'aide à la décision plus sûrs et plus performants.",
-    "project-button" => "Découvrir mes projets",
+    "project-button" => "Découvrir mon projet de recherche",
     "contact-button" => "Me contacter",
     /* --------------------------------- Skills --------------------------------- */
     "skills-h1" => "Compétences",
@@ -35,6 +35,8 @@ $translations = [
     "studio-location" => "Studio Lab'Ut, Strasbourg, France",
     "master-h3" => "Master en Sciences Cognitives pour l'Entreprise",
     "master-location" => "Université de Lille, France",
+    "master-location-lab" => "Sciences Cognitives et Sciences Affectives SCALab, Université de Lille, France",
+    "master-thesis-internship" => "Stage de recherche - Mémoire de Master: Biais d'automatisation et prise de décision",
     /* -------------------------------- Projects Portfolio -------------------------------- */
     "project-h1" => "Projets",
     "project-page-desc-h2" => "Description du projet",

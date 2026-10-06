@@ -9,7 +9,7 @@ $translations = [
     "job" => "Master en Ciencias Cognitivas | Investigadora UX | Factores Humanos",
     "about" => "Soy estudiante de último año de un Máster en Ciencias Cognitivas, especializado en Interacción Humano-Máquina, Investigación UX, Factores Humanos y Ciencias del Comportamiento. Mi trabajo se centra en comprender cómo las personas interactúan con la tecnología y cómo los principios de las ciencias cognitivas pueden aplicarse al diseño de sistemas intuitivos, fiables y fundamentados en evidencia científica.",
     "about2" => "Actualmente, mi investigación se enfoca en el sesgo de automatización (automation bias), la toma de decisiones y el diseño de sistemas, analizando cómo el diseño de interfaces y la automatización influyen en el juicio humano. Mediante métodos de psicología experimental, estudio los mecanismos cognitivos que intervienen en la interacción entre humanos e inteligencia artificial con el objetivo de diseñar sistemas de apoyo a la decisión más seguros y eficaces.",
-    "project-button" => "Descubre mis proyectos",
+    "project-button" => "Descubre mi proyecto de investigación",
     "contact-button" => "Contáctame",
     /* --------------------------------- Skills --------------------------------- */
     "skills-h1" => "Habilidades",
@@ -35,6 +35,8 @@ $translations = [
     "studio-location" => "Studio Lab'Ut, Estrasburgo, Francia",
     "master-h3" => "Máster en Ciencias Cognitivas para la Empresa",
     "master-location" => "Universidad de Lille, Francia",
+    "master-location-lab" => "Sciences Cognitives et Sciences Affectives SCALab, Universidad de Lille, Francia",
+    "master-thesis-internship" => "Pasantía de investigación - Thesis de Master: Sesgo de automatización y toma de decisiones",
     /* -------------------------------- Projects Portfolio -------------------------------- */
     "project-h1" => "Proyectos",
     "project-page-desc-h2" => "Descripción del proyecto",

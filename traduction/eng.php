@@ -9,7 +9,7 @@ $translations = [
     "job" => "Master in Cognitive Science | UX researcher | Human Factors",
     "about" => "Hello! I’m Pamela and I'm a Cognitive Science master's student specializing in Human-Machine Interaction, UX Research, Human Factors, and Behavioral Science. My work focuses on understanding how people interact with technology and how cognitive principles can be applied to design systems that are intuitive, trustworthy, and evidence-based.",
     "about2" => "My current research explores automation bias, decision-making, and system design, examining how interface design and automation influence human judgment. Through experimental psychology methods, I investigate the cognitive mechanisms behind human-AI interaction to inform the design of safer and more effective decision support systems.",
-    "project-button" => "Check out my projects",
+    "project-button" => "Check out my research project",
     "contact-button" => "Contact me",
     /* --------------------------------- Skills --------------------------------- */
     "skills-h1" => "Skills",
@@ -35,6 +35,8 @@ $translations = [
     "studio-location" => "Studio Lab'Ut, Strasbourg, France",
     "master-h3" => "Master's degree in Cognitive Science for Business",
     "master-location" => "University of Lille, France",
+    "master-location-lab" => "Sciences Cognitives et Sciences Affectives SCALab, University of Lille, France",
+    "master-thesis-internship" => "Research Internship - Master's Thesis: Automation bias and decision-making",
     /* -------------------------------- Projects Portfolio -------------------------------- */
     "project-h1" => "Projects",
     "project-page-desc-h2" => "Project description",
